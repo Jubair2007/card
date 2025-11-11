@@ -1,0 +1,57 @@
+body{
+    margin: 20px 20px;
+    background: #a8a4a4;
+}
+.flex{
+    display: flex;
+}
+.btn{
+    gap: 15px;
+    justify-content: center;
+}
+.pd-top{
+    text-align: center;
+    background: white;
+    padding: 40px 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 15px;
+}
+.social-icon{
+    justify-content: center;
+    gap: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.btn-01{
+    padding: 15px 60px;
+    border-radius: 12px;
+    border: none;
+    border: 2px solid #1e1c5a;
+}
+.btn-02{
+    background: #1e1c5a;
+    color: white;
+}
+.btnn{
+color: black;
+    border: none;
+    background-color: rgb(202, 240, 255);
+    padding: ;
+}
+.color{
+    color: #555;
+}
+.color-0{
+    font-weight: 100px;
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-03{
+    border-radius: 50px;
+}
+.avater{
+    border-radius: 50%;
+}
+
