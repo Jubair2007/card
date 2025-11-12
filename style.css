@@ -1,6 +1,6 @@
 body{
     margin: 20px 20px;
-    background: #a8a4a4;
+    background: #ece3e3;
 }
 .flex{
     display: flex;
@@ -16,6 +16,7 @@ body{
     margin-left: 400px;
     margin-right: 400px;
     border-radius: 15px;
+    margin-bottom: 45px;
 }
 .social-icon{
     justify-content: center;
@@ -28,6 +29,7 @@ body{
     border-radius: 12px;
     border: none;
     border: 2px solid #1e1c5a;
+    background: white;
 }
 .btn-02{
     background: #1e1c5a;
@@ -54,4 +56,37 @@ color: black;
 .avater{
     border-radius: 50%;
 }
+.gap{
+    gap: 35px;
+    justify-content: center;
+}
 
+.img-02{
+    padding-top: 10px;
+}
+.line{
+    line-height: 10px;
+}
+.joba{
+    background: white;
+    border-radius: 13px;
+    margin-left: 400PX;
+    margin-right: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.bg{
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.pd{
+    padding-left: 30px;
+}
+.line{
+    line-height: 10px;
+}
+.linee{
+    line-height: 20px;
+}
